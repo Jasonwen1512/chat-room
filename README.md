@@ -1,4 +1,4 @@
-# chat-room
+# 匿名聊天室 chat-room
 
 ## Project setup
 ```
