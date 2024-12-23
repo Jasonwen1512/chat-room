@@ -10,7 +10,7 @@
 - **數據儲存：** Google Sheets API
 - **部署：**
   - 前端：GitHub Pages
-  - 後端：Render
+  - 後端：Node.js，部署在Render
 
 ## 功能特色
 - **註冊與登入：** 支持用戶帳號註冊與登入。
