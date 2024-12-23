@@ -1,5 +1,5 @@
 # 匿名聊天室 ChatRoom
-一個即時的匿名聊天室，使用 WebSocket 技術實現即時通訊，整合 Google Sheets 作為數據存儲的資料庫，前端使用Vue，後端是Node.js <br>
+一個即時的匿名聊天室，使用 WebSocket 技術實現即時通訊，整合 Google Sheets 作為除存數據的資料庫，前端使用Vue，後端是Node.js <br>
 使用者可以註冊、登入，並在聊天室中即時交流。 <br>
 https://jasonwen1512.github.io/chat-room/
 
