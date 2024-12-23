@@ -1,10 +1,12 @@
-# 匿名聊天室 chat-room
+# 匿名聊天室 ChatRoom
 一個即時的匿名聊天室，使用 WebSocket 技術實現即時通訊，整合 Google Sheets 作為數據存儲的資料庫，前端使用Vue，後端是Node.js <br>
-使用者可以註冊、登入，並在聊天室中即時交流。
+使用者可以註冊、登入，並在聊天室中即時交流。 <br>
+https://jasonwen1512.github.io/chat-room/
 
-※由於使用render來架設後端，每15分鐘沒訪問便會休眠，啟動需要50~60秒 <br>
+### ※注意事項
+由於使用render來架設後端，每15分鐘沒訪問便會休眠，啟動需要50~60秒 <br>
 
-## 使用技術
+## 🛠️使用技術
 - **前端：** Vue.js
 - **後端：** Node.js（Express.js 和 WebSocket）
 - **數據儲存：** Google Sheets API
@@ -13,10 +15,10 @@
   - 後端：Node.js，架設在Render
 
 ## 功能特色
-- **註冊與登入：** 支持用戶帳號註冊與登入。
-- **即時聊天：** 使用 WebSocket 實現即時通訊。
-- **數據存儲：** 通過 Google Sheets 管理用戶信息與聊天記錄。
-- **響應式設計：** 適配手機移動端以及桌面瀏覽器
+- ✨ **註冊與登入：** 支持帳號註冊與登入。
+- 💬 **即時聊天：** 使用 WebSocket 實現即時通訊。
+- 📊 **數據存儲：** 通過 Google Sheets 管理使用者資料與聊天記錄。
+- 📱 **響應式設計：** 適配手機移動端以及桌面瀏覽器
   
 
 ### 登入頁面、註冊頁面
@@ -36,9 +38,11 @@
 ### 登出畫面
 ![登出訊息](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E7%99%BB%E5%87%BA%E8%A8%8A%E6%81%AF.png)
 
-### 手機畫面（Safari）
-![手機登入視窗](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E7%99%BB%E5%85%A5%E8%A6%96%E7%AA%97%EF%BC%88%E6%89%8B%E6%A9%9F%EF%BC%89.jpg)
-![手機聊天視窗](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E8%81%8A%E5%A4%A9%E8%A6%96%E7%AA%97%EF%BC%88%E6%89%8B%E6%A9%9F%EF%BC%89.jpg)
+### 響應式設計-手機畫面（Safari）
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E7%99%BB%E5%85%A5%E8%A6%96%E7%AA%97%EF%BC%88%E6%89%8B%E6%A9%9F%EF%BC%89.jpg" alt="手機登入視窗" width="45%">
+  <img src="https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E8%81%8A%E5%A4%A9%E8%A6%96%E7%AA%97%EF%BC%88%E6%89%8B%E6%A9%9F%EF%BC%89.jpg" alt="手機聊天視窗" width="45%">
+</div>
 
 
 
