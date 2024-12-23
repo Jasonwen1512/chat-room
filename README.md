@@ -20,17 +20,25 @@
   
 
 ### 登入頁面、註冊頁面
-
+![登入頁面](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
+![註冊畫面](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E8%A8%BB%E5%86%8A%E7%95%AB%E9%9D%A2.png)
 
 ### 聊天室頁面
+![聊天視窗](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E8%81%8A%E5%A4%A9%E8%A6%96%E7%AA%97.png)
 
 ### 提醒畫面
+![登入失敗](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E7%99%BB%E5%85%A5%E5%A4%B1%E6%95%97.png)
+![註冊成功](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E8%A8%BB%E5%86%8A%E6%88%90%E5%8A%9F.png)
+![重複註冊](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E9%87%8D%E8%A4%87%E8%A8%BB%E5%86%8A.png)
 
 ▲ 若遇到帳號密碼不對、重複註冊等問題會出現提醒
 
 ### 登出畫面
+![登出訊息](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E7%99%BB%E5%87%BA%E8%A8%8A%E6%81%AF.png)
 
 ### 手機畫面（Safari）
+![手機登入視窗](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E7%99%BB%E5%85%A5%E8%A6%96%E7%AA%97%EF%BC%88%E6%89%8B%E6%A9%9F%EF%BC%89.jpg)
+![手機聊天視窗](https://github.com/Jasonwen1512/chat-room/blob/main/chatroom%E5%9C%96%E7%89%87/%E8%81%8A%E5%A4%A9%E8%A6%96%E7%AA%97%EF%BC%88%E6%89%8B%E6%A9%9F%EF%BC%89.jpg)
 
 
 
